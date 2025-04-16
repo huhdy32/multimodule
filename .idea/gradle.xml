@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/api-account" />
+            <option value="$PROJECT_DIR$/api-board" />
+            <option value="$PROJECT_DIR$/domain-board" />
+            <option value="$PROJECT_DIR$/domain-boardwriter" />
+            <option value="$PROJECT_DIR$/domain-member" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-account" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-account" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-board" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-board" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/domain-board" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/domain-board" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/domain-boardwriter" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/domain-boardwriter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/domain-member" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/domain-member" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

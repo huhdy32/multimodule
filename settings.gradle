@@ -1,0 +1,3 @@
+rootProject.name = 'untitled'
+
+include 'domain-board', 'domain-member', 'domain-boardwriter', 'api', 'api-board', 'api-account'
