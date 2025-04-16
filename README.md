@@ -13,3 +13,4 @@ https://techblog.woowahan.com/2637/
 board 관련 API만 실행
 ```./gradlew :api-board:bootRun```
 
+새로운 도메인이 생길때마다, 하위 도메인 모듈을 의존하고, 조합함으로써 프로젝트 고도화
